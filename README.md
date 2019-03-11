@@ -32,4 +32,4 @@ The website, at the top of every page, has a navigation menu that:
 
 The website is deployed to https://harpreet1020.github.io
 
-
+When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
